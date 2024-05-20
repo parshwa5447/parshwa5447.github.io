@@ -63,6 +63,9 @@
     padding: 10;
 }
 @media (max-width: 768px) {
+    .background{
+        background-image: url(Home_mob.png);
+    }
     .navbar {
         height: 44vh;
         flex-direction: column;
